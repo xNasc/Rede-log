@@ -14,4 +14,4 @@ Monitora o tráfego de rede com o Wireshark, captura pacotes, identifica erros (
 MIT
 
 # Doações
-- https://streamelements.com/thenasc/tip
+- https://bit.ly/thenascxstp
